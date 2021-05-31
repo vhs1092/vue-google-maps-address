@@ -3,6 +3,7 @@
 Vue.js and Google maps address localization
 
 ## The Demo
+http://vue-google-maps.victorsamayoa.com/
 
 ## Core functionality
 
